@@ -16,4 +16,5 @@ Você pode selecionar o ativo que quiser a partir da biblioteca do Yahoo Finance
 ```python
 data = yf.download(tickers='EURJPY=x', period='1d', interval='5m')
 ```
+![image](https://github.com/jmarcosbs/regiao_de_congestao/assets/137966714/d2c6ccaa-43e0-46b3-a658-abac3d83774e)
 
